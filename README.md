@@ -7,7 +7,8 @@ An innovative online music platform that combines real-time emotion recognition 
 ---
 ## 🔗 Full Analysis
 
-You can see the complete **model training process** in the link below.
+You can see the complete **model training process** in the link below：
+
 📊 [Complete Model Training Process](https://colab.research.google.com/drive/1OXgVuHh-1RExglcYuX1c3bWSYamlR5MX?usp=sharing)
 
 ---
