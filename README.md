@@ -11,6 +11,13 @@ You can see the complete **model training process** in the link below：
 
 📊 [Complete Model Training Process](https://colab.research.google.com/drive/1OXgVuHh-1RExglcYuX1c3bWSYamlR5MX?usp=sharing)
 
+# 😊
+
+### Learn more about me:
+Welcome to my homepage, feel free to click the link below!
+
+[Click here to visit my homepage](http://guonazhi.site)
+
 ---
 ### 🔑 **Key Features**
 - 🎸 **Listen to Music**: Seamlessly play, pause, and skip between songs with a sleek and intuitive UI.
